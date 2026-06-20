@@ -32,3 +32,9 @@ Thumbs.db
 # package
 *.tgz
 build/
+
+# python
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
